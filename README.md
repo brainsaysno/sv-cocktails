@@ -1,6 +1,6 @@
 # Svelte Cocktails :cocktail:
 
-Cocktail searcher made with Svelte as a pet project to try out Svelte Kit.
+Cocktail searcher made with Svelte as a pet project to try out SvelteKit.
 
 ## Tech stack
 
